@@ -13,7 +13,9 @@
 
 @layer base {
   body {
-    @apply bg-[var(--color-dark-primary)] text-white;
+    background-color: #0A0E27;
+    color: white;
+    font-family: 'Inter', 'Plus Jakarta Sans', system-ui, sans-serif;
   }
 }
 
