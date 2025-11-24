@@ -2,6 +2,7 @@ import Header from './components/layout/Header'
 import Hero from './components/sections/Hero'
 import ProblemStatement from './components/sections/ProblemStatement'
 import SolutionOverview from './components/sections/SolutionOverview'
+import Features from './components/sections/Features'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Hero />
         <ProblemStatement />
         <SolutionOverview />
+        <Features />
       </main>
     </div>
   )
